@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">EventBuddy</h3>
+  <h3 align="center"></h3>
 
 </div>
 ## <a name="introduction">🤖 Introduction</a>
